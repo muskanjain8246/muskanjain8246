@@ -1,16 +1,12 @@
-### Hi there 👋
+Hi 👋 My name is Muskan Jain
+=============================
 
-<!--
-**muskanjain8246/muskanjain8246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Student and Full Stack Developer 
+------------------------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in India
+* ✉️  You can contact me at [muskanjain8246@gmail.com](mailto:muskanjain8246@gmail.com)
+* 🧠  I'm learning MERN Stack and Data Structure Algorithms in Java
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  I am enthusiast about open source projects
+<br>
